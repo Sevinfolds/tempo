@@ -1,12 +1,12 @@
 <resources>
     <string-array name="theme_list_titles">
-        <item>Светлый</item>
-        <item>Темный</item>
-        <item>Системный по умолчанию</item>
+        <item>Светлая</item>
+        <item>Темная</item>
+        <item>Системная по умолчанию</item>
     </string-array>
     <string-array name="theme_list_values">
-        <item>светлый</item>
-        <item>темный</item>
+        <item>светлая</item>
+        <item>темная</item>
         <item>по умолчанию</item>
     </string-array>
 
@@ -34,10 +34,10 @@
 
     <string-array name="streaming_cache_size_titles">
         <item>Отключено</item>
-        <item>128 MiB</item>
-        <item>256 MiB</item>
-        <item>512 MiB</item>
-        <item>1024 MiB</item>
+        <item>128 Мб</item>
+        <item>256 Мб</item>
+        <item>512 Мб</item>
+        <item>1024 Мб</item>
     </string-array>
     <string-array name="streaming_cache_size_values">
         <item>0</item>
@@ -180,9 +180,9 @@
     </string-array>
 
     <string-array name="queue_syncing_countdown_titles">
-        <item>Десять секунд</item>
-        <item>Пять секунд</item>
-        <item>Две секунды</item>
+        <item>10 секунд</item>
+        <item>5 секунд</item>
+        <item>2 секунды</item>
     </string-array>
     <string-array name="queue_syncing_countdown_values">
         <item>10</item>
